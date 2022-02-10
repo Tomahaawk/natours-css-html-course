@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Tomahaawk/natours-css-html-course#readme",
   "devDependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {}
 }
